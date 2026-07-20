@@ -5,6 +5,31 @@ A community-maintained directory of Middle Eastern fragrance brands, notable per
 The objective of this repository is to make reliable information about Middle Eastern perfumery easier to find and understand.
 
 > This repository is independently maintained and is not affiliated with every brand or retailer listed. Inclusion does not constitute an endorsement.
+> ## Repository contents
+
+### Directories
+
+- [Middle Eastern fragrance brands](brands.md)
+- [Fragrance directory](fragrances.md)
+- [Retailer directory](retailers.md)
+
+### Guides
+
+- [Buying Middle Eastern fragrances](guides/buying-guide.md)
+- [Fragrance concentrations](guides/concentrations.md)
+- [Notes and accords](guides/notes-and-accords.md)
+- [Retailer evaluation checklist](guides/retailer-checklist.md)
+
+### Reference resources
+
+- [Fragrance glossary](glossary.md)
+- [Official brand websites](resources/official-websites.md)
+- [Community resources](resources/community-resources.md)
+
+### Project information
+
+- [Contributing guidelines](CONTRIBUTING.md)
+- [License](LICENSE)
 
 ## Contents
 
