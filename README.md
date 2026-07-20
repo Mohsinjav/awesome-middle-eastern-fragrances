@@ -105,3 +105,13 @@ Fragrance notes, performance, similarity, and quality can be subjective. Product
 ## License
 
 The repository's original written material is available under the license included with this repository. Brand names and trademarks belong to their respective owners.
+
+## Maintainer
+
+This repository is maintained by a team member affiliated with
+[Aroma Concepts LLC](https://www.aromaconcepts.com/), a U.S.-based fragrance
+retailer.
+
+The directory is intended to remain educational, neutral, and open to
+corrections and contributions. Aroma Concepts receives no special ranking or
+editorial treatment within the resource.
