@@ -115,3 +115,9 @@ retailer.
 The directory is intended to remain educational, neutral, and open to
 corrections and contributions. Aroma Concepts receives no special ranking or
 editorial treatment within the resource.
+## Guides
+
+- [Buying Middle Eastern Fragrances](guides/buying-guide.md)
+- [Fragrance Concentrations](guides/concentrations.md)
+- [Fragrance Notes and Accords](guides/notes-and-accords.md)
+- [Retailer Evaluation Checklist](guides/retailer-checklist.md)
